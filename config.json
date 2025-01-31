@@ -1,0 +1,12 @@
+{
+    "telegram_webhook": {
+        "telegram_channel_id": "-1002371084206",
+        "telegram_token": "7685675243:AAHBQziKJB1lOm8jeq-sYyET9viVUCb96gk",
+        "discord_webhook_url": "https://discord.com/api/webhooks/1332833134462636032/7hWPvNq1RQplS0jR2OOEWE_yJvqI9q_BZz3dHV8vx4BUnLFnTX94jyKVDubTEAsVao_X"
+    },
+    "voice_roles": {
+        "1334311184647589949": "1334312258947518536",
+        "1332820544843808790": "1334312086301315082",
+        "7": "9"
+    }
+}

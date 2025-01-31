@@ -1,0 +1,8 @@
+discord.py
+python-telegram-bot
+PyNaCl
+requests
+Flask
+ngrok
+python-telegram-bot
+python-telegram-bot requests

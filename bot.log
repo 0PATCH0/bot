@@ -1,0 +1,1172 @@
+2025-01-30 08:40:52,117 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-01-30 08:40:52,124 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-01-30 08:40:52,125 - discord.client - INFO - logging in using static token
+2025-01-30 08:40:53,360 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6a5e5384f9976d67a8ed484b81fe1222).
+2025-01-30 08:40:55,362 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 08:48:26,461 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-01-30 08:48:26,466 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-01-30 08:48:26,467 - discord.client - INFO - logging in using static token
+2025-01-30 08:48:27,690 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 262da9a7b6090d2d2d77fc1c6d525d12).
+2025-01-30 08:48:29,688 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 08:48:29,930 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 08:51:31,370 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-01-30 08:51:31,371 - discord.client - INFO - logging in using static token
+2025-01-30 08:51:32,801 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7c9441348f151d285ed7a0e19ab18f70).
+2025-01-30 08:51:34,816 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 08:51:35,053 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 08:54:32,066 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-01-30 08:54:32,067 - discord.client - INFO - logging in using static token
+2025-01-30 08:54:33,250 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a661b16909323ec0148b22143b3ae29d).
+2025-01-30 08:54:35,254 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 08:54:35,484 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 08:58:54,545 - discord.client - INFO - logging in using static token
+2025-01-30 08:58:55,764 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6fa8901bd1e1ce175d93e06a0a05d0f1).
+2025-01-30 08:58:57,782 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 08:58:58,044 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 08:59:11,441 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "voice_roles" is not found
+2025-01-30 09:06:40,036 - discord.client - INFO - logging in using static token
+2025-01-30 09:06:41,174 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d7de3e0d8b42f54f1a7984a57088442c).
+2025-01-30 09:06:43,178 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 09:06:43,405 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 09:16:24,037 - discord.client - INFO - logging in using static token
+2025-01-30 09:16:25,345 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 01f972c4b2fd341941c411157b5618fa).
+2025-01-30 09:16:27,370 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 09:16:27,599 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 09:23:24,451 - discord.client - INFO - logging in using static token
+2025-01-30 09:23:25,811 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 21404d2bbfa43ffd6b3ddea38e2e6f33).
+2025-01-30 09:23:27,818 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 09:23:28,113 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 09:35:43,910 - discord.client - INFO - logging in using static token
+2025-01-30 09:35:45,093 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d8ed535f077800bd2dcb03c01dd19979).
+2025-01-30 09:35:47,095 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 09:35:47,346 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 09:45:34,151 - discord.client - INFO - logging in using static token
+2025-01-30 09:45:35,595 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cf2196a110210a1640a5ac4addfb35cf).
+2025-01-30 09:45:37,595 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 09:45:37,863 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 09:50:18,454 - discord.client - INFO - logging in using static token
+2025-01-30 09:50:19,744 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 11efbac2dfa64493786f861d48dd7c28).
+2025-01-30 09:50:21,749 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 09:50:22,088 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 09:54:51,068 - discord.client - INFO - logging in using static token
+2025-01-30 09:54:52,290 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1823fa9cf48b6b4c8cfa5bdb98a0535d).
+2025-01-30 09:54:54,319 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 09:54:54,558 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 09:59:45,933 - discord.client - INFO - logging in using static token
+2025-01-30 09:59:47,511 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f54785b5bfc22f0755f43e4ad2e60b10).
+2025-01-30 09:59:49,542 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 09:59:49,794 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 10:10:01,950 - discord.client - INFO - logging in using static token
+2025-01-30 10:10:03,367 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 299f4b9cc03451aaa1891d0ce6cbda53).
+2025-01-30 10:10:05,366 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 10:10:05,615 - __main__ - INFO - �������������� 0 ������ ��� ������� 1332820544315330560
+2025-01-30 10:17:27,140 - discord.client - INFO - logging in using static token
+2025-01-30 10:17:28,366 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cf846071f0e203503e5136b96c34f4c9).
+2025-01-30 10:17:30,367 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 10:17:30,631 - __main__ - INFO - �������������� 1 ������ ��� ������� 1332820544315330560
+2025-01-30 10:21:00,353 - discord.client - INFO - logging in using static token
+2025-01-30 10:21:01,620 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ac294a57b8fa587052610764d0675b94).
+2025-01-30 10:21:03,624 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 10:21:03,916 - __main__ - INFO - �������������� 0 ������ ��� ������� 1332820544315330560
+2025-01-30 10:23:04,822 - discord.client - INFO - logging in using static token
+2025-01-30 10:23:06,157 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e582eaa4b10552f978a34f2e05378abd).
+2025-01-30 10:23:08,159 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 10:23:08,403 - __main__ - INFO - �������������� 0 ������ ��� ������� 1332820544315330560
+2025-01-30 10:25:01,111 - discord.client - INFO - logging in using static token
+2025-01-30 10:25:02,657 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d04cc5131a78c6726787c6762f92f0d5).
+2025-01-30 10:25:04,667 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 10:25:04,926 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 10:27:34,494 - discord.client - INFO - logging in using static token
+2025-01-30 10:27:35,919 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ab7f47078e518890e4b85559dd7ce756).
+2025-01-30 10:27:37,929 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 10:27:38,185 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 10:30:43,666 - discord.client - INFO - logging in using static token
+2025-01-30 10:30:45,109 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9dd34fe177e3d083f75047173d40bcf5).
+2025-01-30 10:30:47,121 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 10:30:47,321 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 10:34:22,895 - __main__ - INFO - Cog voice_roles ������ �����������!
+2025-01-30 10:34:22,900 - discord.client - INFO - logging in using static token
+2025-01-30 10:34:24,170 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 81f71f45f485b4824e37c16e4814591f).
+2025-01-30 10:34:26,256 - __main__ - INFO - ��� PATCH#1164 ������� �� ������!
+2025-01-30 10:34:26,514 - __main__ - INFO - �������������� 0 ������.
+2025-01-30 10:41:07,869 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 10:41:07,897 - cogs.voice_roles - INFO - Команда setup_voice_roles зареєстрована!
+2025-01-30 10:41:07,898 - discord.client - INFO - logging in using static token
+2025-01-30 10:41:10,336 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ed9fcc57b3122700649681b96708e9bf).
+2025-01-30 10:41:12,342 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 10:41:12,578 - __main__ - INFO - Синхронізовано 0 команд.
+2025-01-30 10:45:35,614 - discord.client - ERROR - Attempting a reconnect in 1.32s
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\client.py", line 667, in connect
+    await self.ws.poll_event()
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\gateway.py", line 648, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-01-30 10:46:36,943 - discord.client - ERROR - Attempting a reconnect in 0.06s
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\gateway.py", line 374, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\http.py", line 550, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\connector.py", line 1369, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\connector.py", line 1122, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs, sock=sock)
+  File "C:\Users\rubet.PATCH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1103, in create_connection
+    transport, protocol = await self._create_connection_transport(
+  File "C:\Users\rubet.PATCH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1133, in _create_connection_transport
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\client.py", line 664, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\rubet.PATCH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+2025-01-30 10:47:37,029 - discord.client - ERROR - Attempting a reconnect in 4.46s
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\gateway.py", line 374, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\http.py", line 550, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\connector.py", line 1369, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\aiohttp\connector.py", line 1122, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs, sock=sock)
+  File "C:\Users\rubet.PATCH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1103, in create_connection
+    transport, protocol = await self._create_connection_transport(
+  File "C:\Users\rubet.PATCH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1133, in _create_connection_transport
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 456, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\client.py", line 664, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\rubet.PATCH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 458, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+2025-01-30 10:47:42,350 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-01-30 10:47:48,023 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1c7a2169e0b50bf81e662258da4cbb61).
+2025-01-30 10:47:50,028 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 10:47:50,281 - __main__ - INFO - Синхронізовано 0 команд.
+2025-01-30 10:56:29,431 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 10:56:29,435 - cogs.voice_roles - INFO - Команда setup_voice_roles зареєстрована!
+2025-01-30 10:56:29,437 - discord.client - INFO - logging in using static token
+2025-01-30 10:56:30,538 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5af2d68ca3ffd712495c9b3fff55de1d).
+2025-01-30 10:56:32,536 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 10:56:32,744 - __main__ - INFO - Синхронізовано 0 команд.
+2025-01-30 10:58:13,295 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 10:58:13,305 - cogs.voice_roles - INFO - Команда setup_voice_roles зареєстрована!
+2025-01-30 10:58:13,306 - discord.client - INFO - logging in using static token
+2025-01-30 10:58:14,500 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b237b641d89e4397a28721a0804bcdd7).
+2025-01-30 10:58:16,528 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 10:58:16,746 - __main__ - INFO - Синхронізовано 0 команд.
+2025-01-30 11:08:13,782 - cogs.voice_roles - INFO - Команда setup_voice_roles зареєстрована!
+2025-01-30 11:08:13,783 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 11:08:13,783 - discord.client - INFO - logging in using static token
+2025-01-30 11:08:14,995 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c7f981fe872c8cef35fb9a3d10038ec9).
+2025-01-30 11:08:17,011 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 11:08:17,630 - __main__ - INFO - Синхронізовано 1 команд.
+2025-01-30 11:18:03,829 - __main__ - INFO - Команди успішно синхронізовані: 1
+2025-01-30 11:19:03,793 - __main__ - ERROR - Помилка синхронізації: 404 Not Found (error code: 10062): Unknown interaction
+2025-01-30 11:19:04,222 - discord.app_commands.tree - ERROR - Ignoring exception in command 'sync'
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot.py", line 40, in sync
+    await interaction.response.send_message(f"Синхронізовано {len(synced)} команд!", ephemeral=True)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\interactions.py", line 855, in send_message
+    await adapter.create_interaction_response(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\webhook\async_.py", line 221, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot.py", line 44, in sync
+    await interaction.response.send_message(f"Помилка синхронізації: {e}", ephemeral=True)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\interactions.py", line 855, in send_message
+    await adapter.create_interaction_response(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\webhook\async_.py", line 221, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 876, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'sync' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-01-30 11:19:04,433 - __main__ - ERROR - Помилка синхронізації: 404 Not Found (error code: 10062): Unknown interaction
+2025-01-30 11:19:04,598 - discord.app_commands.tree - ERROR - Ignoring exception in command 'sync'
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot.py", line 40, in sync
+    await interaction.response.send_message(f"Синхронізовано {len(synced)} команд!", ephemeral=True)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\interactions.py", line 855, in send_message
+    await adapter.create_interaction_response(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\webhook\async_.py", line 221, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot.py", line 44, in sync
+    await interaction.response.send_message(f"Помилка синхронізації: {e}", ephemeral=True)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\interactions.py", line 855, in send_message
+    await adapter.create_interaction_response(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\webhook\async_.py", line 221, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 876, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'sync' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-01-30 11:22:31,792 - cogs.voice_roles - INFO - Команда setup_voice_roles зареєстрована!
+2025-01-30 11:22:31,794 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 11:22:31,794 - discord.client - INFO - logging in using static token
+2025-01-30 11:22:33,290 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 93e37dc601b1994b27e5d6dd6cc75a5f).
+2025-01-30 11:22:35,284 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 11:22:35,688 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-30 11:23:36,015 - __main__ - ERROR - Помилка синхронізації: 404 Not Found (error code: 10062): Unknown interaction
+2025-01-30 11:23:36,177 - discord.app_commands.tree - ERROR - Ignoring exception in command 'sync'
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot.py", line 40, in sync
+    await interaction.response.send_message(f"Синхронізовано {len(synced)} команд!", ephemeral=True)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\interactions.py", line 855, in send_message
+    await adapter.create_interaction_response(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\webhook\async_.py", line 221, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot.py", line 44, in sync
+    await interaction.response.send_message(f"Помилка синхронізації: {e}", ephemeral=True)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\interactions.py", line 855, in send_message
+    await adapter.create_interaction_response(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\webhook\async_.py", line 221, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 876, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'sync' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-01-30 11:25:18,350 - cogs.voice_roles - INFO - Команда setup_voice_roles зареєстрована!
+2025-01-30 11:25:18,351 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 11:25:18,351 - discord.client - INFO - logging in using static token
+2025-01-30 11:25:20,035 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 934b25dc739f3d36a9f9512b4d3000a5).
+2025-01-30 11:25:22,037 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 11:25:22,321 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-30 11:25:55,976 - __main__ - INFO - Команди успішно синхронізовані: 2
+2025-01-30 11:26:24,300 - cogs.voice_roles - INFO - Команда setup_voice_roles зареєстрована!
+2025-01-30 11:26:24,300 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 11:26:24,301 - discord.client - INFO - logging in using static token
+2025-01-30 11:26:25,585 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3842eddf61b42d8afefead88539f75ab).
+2025-01-30 11:26:27,581 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 11:26:27,905 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-30 11:27:28,464 - __main__ - INFO - Команди успішно синхронізовані: 2
+2025-01-30 11:30:07,900 - __main__ - INFO - Команди успішно синхронізовані: 2
+2025-01-30 11:32:40,509 - cogs.voice_roles - INFO - Команда setup_voice_roles зареєстрована!
+2025-01-30 11:32:40,510 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 11:32:40,511 - discord.client - INFO - logging in using static token
+2025-01-30 11:32:41,728 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fd501c6e30afe1e7f4aaa59f9b7d6079).
+2025-01-30 11:32:43,748 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 11:32:44,085 - __main__ - INFO - Синхронізовано 4 команд.
+2025-01-30 11:33:44,342 - __main__ - INFO - Команди успішно синхронізовані: 4
+2025-01-30 11:34:12,895 - cogs.voice_roles - INFO - Команда setup_voice_roles зареєстрована!
+2025-01-30 11:34:12,897 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 11:34:12,898 - discord.client - INFO - logging in using static token
+2025-01-30 11:34:14,293 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6bb29d79e4c1d10c1beb2f8c2eeb17cc).
+2025-01-30 11:34:16,300 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 11:34:17,066 - __main__ - INFO - Синхронізовано 4 команд.
+2025-01-30 11:34:40,751 - discord.app_commands.tree - ERROR - Ignoring exception in command 'sync_all'
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot.py", line 29, in sync_all
+    bot.tree.clear_commands()  # Очистити всі команди
+TypeError: CommandTree.clear_commands() missing 1 required keyword-only argument: 'guild'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 872, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'sync_all' raised an exception: TypeError: CommandTree.clear_commands() missing 1 required keyword-only argument: 'guild'
+2025-01-30 11:35:38,294 - cogs.voice_roles - INFO - Команда setup_voice_roles зареєстрована!
+2025-01-30 11:35:38,295 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 11:35:38,295 - discord.client - INFO - logging in using static token
+2025-01-30 11:35:39,253 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 53fcb7819897f3f5f598c4a761cafb02).
+2025-01-30 11:35:41,261 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 11:35:41,673 - __main__ - INFO - Синхронізовано 3 команд.
+2025-01-30 11:37:34,952 - discord.client - ERROR - Attempting a reconnect in 1.09s
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\client.py", line 667, in connect
+    await self.ws.poll_event()
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\gateway.py", line 648, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-01-30 11:37:36,483 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 53fcb7819897f3f5f598c4a761cafb02.
+2025-01-30 11:41:56,872 - __main__ - ERROR - Помилка завантаження voice_roles: Extension 'cogs.voice_roles' raised an error: TypeError: callback 'VoiceRoles.setup' must have more than 1 parameter(s)
+2025-01-30 11:41:56,872 - discord.client - INFO - logging in using static token
+2025-01-30 11:41:58,103 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bfa2a02b6002091c6ca933e5284a867e).
+2025-01-30 11:42:00,111 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 11:42:00,479 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-30 11:42:09,636 - discord.app_commands.tree - ERROR - Ignoring exception in command 'sync_all'
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot.py", line 29, in sync_all
+    bot.tree.clear_commands()  # Очистити всі команди
+TypeError: CommandTree.clear_commands() missing 1 required keyword-only argument: 'guild'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 872, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'sync_all' raised an exception: TypeError: CommandTree.clear_commands() missing 1 required keyword-only argument: 'guild'
+2025-01-30 11:43:30,101 - cogs.voice_roles - INFO - Команда setup_voice_roles зареєстрована!
+2025-01-30 11:43:30,102 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 11:43:30,102 - discord.client - INFO - logging in using static token
+2025-01-30 11:43:31,229 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 18f65d86862cd63d6943486d87db4ed5).
+2025-01-30 11:43:33,243 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 11:43:33,614 - __main__ - INFO - Синхронізовано 3 команд.
+2025-01-30 11:48:11,194 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 11:48:11,195 - discord.client - INFO - logging in using static token
+2025-01-30 11:48:12,521 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: efc6b5375567d4947293bf05712211cf).
+2025-01-30 11:48:14,523 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 11:48:15,155 - __main__ - INFO - Синхронізовано 3 команд.
+2025-01-30 11:53:57,857 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 11:53:57,858 - discord.client - INFO - logging in using static token
+2025-01-30 11:53:59,350 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d944e889fefc2c3c4634d50381d7d9c4).
+2025-01-30 11:54:01,354 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 11:54:01,938 - __main__ - INFO - Синхронізовано 3 команд.
+2025-01-30 11:54:38,038 - discord.app_commands.tree - ERROR - Ignoring exception in command 'voice_roles'
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 857, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\cogs\voice_roles.py", line 45, in voice_roles
+    await interaction.response.send_message("Оберіть категорію та роль:", view=view, ephemeral=True)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\interactions.py", line 855, in send_message
+    await adapter.create_interaction_response(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\webhook\async_.py", line 223, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In data.components.1.components.0.options: Must be between 1 and 25 in length.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 876, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'voice_roles' raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In data.components.1.components.0.options: Must be between 1 and 25 in length.
+2025-01-30 12:03:48,069 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 12:03:48,069 - discord.client - INFO - logging in using static token
+2025-01-30 12:03:50,493 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bbb2258de50096b5ba62f45837f9d9e9).
+2025-01-30 12:03:52,485 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 12:03:52,988 - __main__ - INFO - Синхронізовано 3 команд.
+2025-01-30 12:04:31,751 - discord.app_commands.tree - ERROR - Ignoring exception in command 'voice_roles'
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 857, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\cogs\voice_roles.py", line 45, in voice_roles
+    await interaction.response.send_message("Оберіть категорію та роль:", view=view, ephemeral=True)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\interactions.py", line 855, in send_message
+    await adapter.create_interaction_response(
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\webhook\async_.py", line 223, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In data.components.1.components.0.options: Must be between 1 and 25 in length.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\app_commands\commands.py", line 876, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'voice_roles' raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In data.components.1.components.0.options: Must be between 1 and 25 in length.
+2025-01-30 12:06:58,092 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 12:06:58,093 - discord.client - INFO - logging in using static token
+2025-01-30 12:06:59,035 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 48fe38d43ad09d16c4acac230563511d).
+2025-01-30 12:07:01,037 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 12:07:01,516 - __main__ - INFO - Синхронізовано 3 команд.
+2025-01-30 12:07:45,630 - discord.ui.view - ERROR - Ignoring exception in view <View timeout=180.0 children=2> for item <Select placeholder='Оберіть категорію голосових каналів...' min_values=1 max_values=1 disabled=False>
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\ui\view.py", line 430, in _scheduled_task
+    await item.callback(interaction)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\cogs\voice_roles.py", line 59, in callback_category
+    selected_role_id = int(role_select.values[0])
+IndexError: list index out of range
+2025-01-30 12:08:01,987 - cogs.voice_roles - INFO - Категорія 1332820544843808790 пов'язана з роллю 1334312086301315082.
+2025-01-30 12:08:22,306 - discord.ui.view - ERROR - Ignoring exception in view <View timeout=180.0 children=2> for item <Select placeholder='Оберіть категорію голосових каналів...' min_values=1 max_values=1 disabled=False>
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\ui\view.py", line 430, in _scheduled_task
+    await item.callback(interaction)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\cogs\voice_roles.py", line 59, in callback_category
+    selected_role_id = int(role_select.values[0])
+IndexError: list index out of range
+2025-01-30 12:08:29,352 - discord.ui.view - ERROR - Ignoring exception in view <View timeout=180.0 children=2> for item <Select placeholder='Оберіть категорію голосових каналів...' min_values=1 max_values=1 disabled=False>
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\ui\view.py", line 430, in _scheduled_task
+    await item.callback(interaction)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\cogs\voice_roles.py", line 59, in callback_category
+    selected_role_id = int(role_select.values[0])
+IndexError: list index out of range
+2025-01-30 12:08:37,850 - discord.ui.view - ERROR - Ignoring exception in view <View timeout=180.0 children=2> for item <Select placeholder='Оберіть категорію голосових каналів...' min_values=1 max_values=1 disabled=False>
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\ui\view.py", line 430, in _scheduled_task
+    await item.callback(interaction)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\cogs\voice_roles.py", line 59, in callback_category
+    selected_role_id = int(role_select.values[0])
+IndexError: list index out of range
+2025-01-30 12:08:47,067 - discord.ui.view - ERROR - Ignoring exception in view <View timeout=180.0 children=2> for item <Select placeholder='Оберіть категорію голосових каналів...' min_values=1 max_values=1 disabled=False>
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\ui\view.py", line 430, in _scheduled_task
+    await item.callback(interaction)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\cogs\voice_roles.py", line 59, in callback_category
+    selected_role_id = int(role_select.values[0])
+IndexError: list index out of range
+2025-01-30 12:09:02,737 - cogs.voice_roles - INFO - Категорія 1334311184647589949 пов'язана з роллю 1334312258947518536.
+2025-01-30 12:21:00,893 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 12:21:00,893 - discord.client - INFO - logging in using static token
+2025-01-30 12:21:02,522 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9513bae7a858ef803000947819b26d4c).
+2025-01-30 12:21:04,527 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 12:21:04,906 - __main__ - INFO - Синхронізовано 3 команд.
+2025-01-30 12:25:44,172 - discord.ui.view - ERROR - Ignoring exception in view <View timeout=180.0 children=2> for item <Select placeholder='Оберіть категорію голосових каналів...' min_values=1 max_values=1 disabled=False>
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\ui\view.py", line 430, in _scheduled_task
+    await item.callback(interaction)
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\cogs\voice_roles.py", line 59, in callback_category
+    selected_role_id = int(role_select.values[0])
+IndexError: list index out of range
+2025-01-30 12:25:54,121 - cogs.voice_roles - INFO - Категорія 1332820544843808790 пов'язана з роллю 1334312086301315082.
+2025-01-30 12:30:12,318 - discord.client - ERROR - Attempting a reconnect in 0.97s
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\client.py", line 667, in connect
+    await self.ws.poll_event()
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\gateway.py", line 648, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-01-30 12:30:13,830 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 9513bae7a858ef803000947819b26d4c.
+2025-01-30 12:34:17,821 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 12:34:17,821 - discord.client - INFO - logging in using static token
+2025-01-30 12:34:58,800 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 12:34:58,801 - discord.client - INFO - logging in using static token
+2025-01-30 12:37:16,919 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 12:37:16,920 - discord.client - INFO - logging in using static token
+2025-01-30 12:37:18,262 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 98dc8c18c56da4957f5201d30418b2b5).
+2025-01-30 12:37:20,278 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 12:37:21,064 - __main__ - INFO - Синхронізовано 1 команд.
+2025-01-30 12:38:50,353 - cogs.voice_roles - INFO - Категорія 1334311184647589949 пов'язана з роллю 1334312258947518536.
+2025-01-30 12:39:19,152 - cogs.voice_roles - INFO - Категорія 1332820544843808790 пов'язана з роллю 1334312086301315082.
+2025-01-30 12:39:22,745 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:39:28,156 - cogs.voice_roles - INFO - Роль Грає в CS 2 забрана у patch0.
+2025-01-30 12:39:30,497 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 видана patch0.
+2025-01-30 12:39:32,796 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 забрана у patch0.
+2025-01-30 12:39:34,780 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:39:35,340 - cogs.voice_roles - INFO - Роль Грає в CS 2 забрана у patch0.
+2025-01-30 12:39:35,614 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:39:39,906 - cogs.voice_roles - INFO - Роль Грає в CS 2 забрана у patch0.
+2025-01-30 12:39:40,065 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 забрана у patch0.
+2025-01-30 12:39:40,120 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:39:40,296 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:39:45,989 - cogs.voice_roles - INFO - Роль Грає в CS 2 забрана у patch0.
+2025-01-30 12:39:46,141 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 забрана у patch0.
+2025-01-30 12:39:46,233 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:39:46,331 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:39:51,716 - cogs.voice_roles - INFO - Роль Грає в CS 2 забрана у patch0.
+2025-01-30 12:39:52,008 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:39:55,280 - cogs.voice_roles - INFO - Роль Грає в CS 2 забрана у patch0.
+2025-01-30 12:39:55,347 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 забрана у patch0.
+2025-01-30 12:39:55,588 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 видана patch0.
+2025-01-30 12:39:56,044 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 видана patch0.
+2025-01-30 12:40:00,656 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 забрана у patch0.
+2025-01-30 12:40:00,988 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:40:01,082 - cogs.voice_roles - INFO - Роль Грає в CS 2 забрана у patch0.
+2025-01-30 12:40:01,356 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:40:05,039 - cogs.voice_roles - INFO - Роль Грає в CS 2 забрана у patch0.
+2025-01-30 12:40:05,161 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 забрана у patch0.
+2025-01-30 12:40:05,278 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:40:05,399 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:40:11,407 - cogs.voice_roles - INFO - Роль Грає в CS 2 забрана у patch0.
+2025-01-30 12:40:11,561 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 забрана у patch0.
+2025-01-30 12:40:11,649 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:40:11,796 - cogs.voice_roles - INFO - Роль Грає в CS 2 видана patch0.
+2025-01-30 12:40:14,890 - cogs.voice_roles - INFO - Роль Грає в CS 2 забрана у patch0.
+2025-01-30 12:40:15,143 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 видана patch0.
+2025-01-30 12:40:18,119 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 забрана у patch0.
+2025-01-30 12:44:00,034 - discord.client - ERROR - Attempting a reconnect in 0.84s
+Traceback (most recent call last):
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\client.py", line 667, in connect
+    await self.ws.poll_event()
+  File "C:\Users\rubet.PATCH\OneDrive\Робочий стіл\Cods\Bot\bot-env\lib\site-packages\discord\gateway.py", line 648, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-01-30 12:44:01,243 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 98dc8c18c56da4957f5201d30418b2b5.
+2025-01-30 16:20:16,981 - __main__ - INFO - Cog voice_roles успішно завантажено!
+2025-01-30 16:20:16,982 - discord.client - INFO - logging in using static token
+2025-01-30 16:20:19,839 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 392e504ad166134d0ff7e789e7e28765).
+2025-01-30 16:20:21,913 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 16:20:22,456 - __main__ - INFO - Синхронізовано 1 команд.
+2025-01-30 16:27:58,211 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-30 16:27:58,633 - __main__ - ERROR - Помилка завантаження cogs.telegram_webhook: Extension 'cogs.telegram_webhook' raised an error: ModuleNotFoundError: No module named 'requests'
+2025-01-30 16:27:58,634 - discord.client - INFO - logging in using static token
+2025-01-30 16:27:59,874 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1916c8b6db1bd0892b7b2ba29809ef21).
+2025-01-30 16:28:01,887 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 16:28:02,174 - __main__ - INFO - Синхронізовано 1 команд.
+2025-01-30 16:31:00,519 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-30 16:31:01,160 - __main__ - ERROR - Помилка завантаження cogs.telegram_webhook: Extension 'cogs.telegram_webhook' has no 'setup' function.
+2025-01-30 16:31:01,160 - discord.client - INFO - logging in using static token
+2025-01-30 16:31:02,276 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7a9e37b919662cc9e3b5d787a4bad863).
+2025-01-30 16:31:04,284 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 16:31:04,650 - __main__ - INFO - Синхронізовано 1 команд.
+2025-01-30 16:34:42,873 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-30 16:34:42,893 - __main__ - INFO - Cog cogs.telegram_webhook успішно завантажено!
+2025-01-30 16:34:42,893 - discord.client - INFO - logging in using static token
+2025-01-30 16:34:43,980 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7a244cf4f9c86b1483250c135f374146).
+2025-01-30 16:34:45,987 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 16:34:46,289 - __main__ - INFO - Синхронізовано 1 команд.
+2025-01-30 16:42:04,509 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-30 16:42:04,535 - __main__ - INFO - Cog cogs.telegram_webhook успішно завантажено!
+2025-01-30 16:42:04,536 - discord.client - INFO - logging in using static token
+2025-01-30 16:42:09,547 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 45888a62e4f90374f21118c0bd631ed8).
+2025-01-30 16:42:11,548 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 16:42:11,880 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-30 16:50:27,729 - cogs.telegram_webhook - INFO - Збережено налаштування Telegram: -1002279957603, токен: 7685675243:AAHBQziKJB1lOm8jeq-sYyET9viVUCb96gk, вебхук: https://discord.com/api/webhooks/1332833134462636032/7hWPvNq1RQplS0jR2OOEWE_yJvqI9q_BZz3dHV8vx4BUnLFnTX94jyKVDubTEAsVao_X
+2025-01-30 23:40:11,956 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-30 23:40:11,960 - __main__ - INFO - Cog cogs.telegram_webhook успішно завантажено!
+2025-01-30 23:40:11,960 - discord.client - INFO - logging in using static token
+2025-01-30 23:40:12,955 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8f525f6670a8c656aadebd7d285b3500).
+2025-01-30 23:40:15,414 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 23:41:15,363 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-30 23:42:29,668 - cogs.voice_roles - INFO - Отримано category_id: 1334311184647589949, role_id: 1334312258947518536
+2025-01-30 23:42:30,003 - cogs.voice_roles - ERROR - Помилка при налаштуванні ролі: 'voice_roles'
+2025-01-30 23:49:13,758 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-30 23:49:13,771 - __main__ - INFO - Cog cogs.telegram_webhook успішно завантажено!
+2025-01-30 23:49:13,771 - discord.client - INFO - logging in using static token
+2025-01-30 23:49:14,760 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: dd1bae6c548656ae98ed6908c64a1da3).
+2025-01-30 23:49:17,151 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 23:50:17,117 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-30 23:51:40,921 - cogs.voice_roles - INFO - Отримано category_id: 1334311184647589949, role_id: 1334312258947518536
+2025-01-30 23:51:41,242 - cogs.voice_roles - INFO - Категорія 1334311184647589949 пов'язана з роллю 1334312258947518536.
+2025-01-30 23:53:06,077 - cogs.voice_roles - INFO - Отримано category_id: 1332820544843808790, role_id: 1334312086301315082
+2025-01-30 23:53:06,367 - cogs.voice_roles - INFO - Категорія 1332820544843808790 пов'язана з роллю 1334312086301315082.
+2025-01-30 23:56:22,893 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-30 23:56:22,896 - __main__ - INFO - Cog cogs.telegram_webhook успішно завантажено!
+2025-01-30 23:56:22,896 - discord.client - INFO - logging in using static token
+2025-01-30 23:56:24,337 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8304d181ce955182855daf6fa4cbccb9).
+2025-01-30 23:56:26,750 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-30 23:57:17,577 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу changes_2018 (1063048624910630932)
+2025-01-30 23:57:23,040 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу tringlee (375704540726558722)
+2025-01-30 23:57:23,292 - cogs.voice_roles - INFO - Знято роль Грає в DOTA 2 (1334312086301315082) у користувача tringlee (375704540726558722)
+2025-01-30 23:57:26,675 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-30 23:57:44,500 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу tringlee (375704540726558722)
+2025-01-30 23:57:45,097 - cogs.voice_roles - INFO - Знято роль Грає в DOTA 2 (1334312086301315082) у користувача tringlee (375704540726558722)
+2025-01-30 23:58:19,147 - cogs.voice_roles - INFO - Видано роль Грає в CS 2 (1334312258947518536) користувачу patch0 (439798786059927552)
+2025-01-30 23:58:27,797 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу patch0 (439798786059927552)
+2025-01-30 23:58:28,136 - cogs.voice_roles - INFO - Знято роль Грає в CS 2 (1334312258947518536) у користувача patch0 (439798786059927552)
+2025-01-30 23:58:28,770 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу patch0 (439798786059927552)
+2025-01-30 23:58:29,113 - cogs.voice_roles - INFO - Знято роль Грає в DOTA 2 (1334312086301315082) у користувача patch0 (439798786059927552)
+2025-01-30 23:58:35,585 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу patch0 (439798786059927552)
+2025-01-30 23:58:35,608 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу patch0 (439798786059927552)
+2025-01-30 23:58:35,920 - cogs.voice_roles - INFO - Знято роль Грає в DOTA 2 (1334312086301315082) у користувача patch0 (439798786059927552)
+2025-01-30 23:58:39,875 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу tringlee (375704540726558722)
+2025-01-30 23:58:40,176 - cogs.voice_roles - INFO - Знято роль Грає в DOTA 2 (1334312086301315082) у користувача tringlee (375704540726558722)
+2025-01-30 23:58:40,728 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу tringlee (375704540726558722)
+2025-01-30 23:59:23,778 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу en1gma45 (273406462594646026)
+2025-01-30 23:59:30,039 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу gryonge (933434253323149332)
+2025-01-31 00:01:01,405 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу monendergino (401785348885315585)
+2025-01-31 00:01:01,668 - cogs.voice_roles - INFO - Знято роль Грає в DOTA 2 (1334312086301315082) у користувача monendergino (401785348885315585)
+2025-01-31 00:01:01,809 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу monendergino (401785348885315585)
+2025-01-31 00:01:02,147 - cogs.voice_roles - INFO - Знято роль Грає в DOTA 2 (1334312086301315082) у користувача monendergino (401785348885315585)
+2025-01-31 00:01:22,627 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу slavabivis (428633482780999680)
+2025-01-31 00:01:25,543 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу karpick_ (318683946856742913)
+2025-01-31 00:03:01,113 - cogs.voice_roles - INFO - Знято роль Грає в DOTA 2 (1334312086301315082) у користувача changes_2018 (1063048624910630932)
+2025-01-31 00:03:29,626 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу reisles (297753400827838464)
+2025-01-31 00:03:30,166 - cogs.voice_roles - INFO - Знято роль Грає в DOTA 2 (1334312086301315082) у користувача reisles (297753400827838464)
+2025-01-31 00:03:59,582 - cogs.voice_roles - INFO - Видано роль Грає в CS 2 (1334312258947518536) користувачу patch0 (439798786059927552)
+2025-01-31 00:04:00,093 - cogs.voice_roles - INFO - Видано роль Грає в CS 2 (1334312258947518536) користувачу patch0 (439798786059927552)
+2025-01-31 00:04:00,326 - cogs.voice_roles - INFO - Знято роль Грає в CS 2 (1334312258947518536) у користувача patch0 (439798786059927552)
+2025-01-31 00:04:04,059 - cogs.voice_roles - INFO - Видано роль Грає в DOTA 2 (1334312086301315082) користувачу en1gma45 (273406462594646026)
+2025-01-31 00:04:16,012 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-31 00:04:16,015 - __main__ - INFO - Cog cogs.telegram_webhook успішно завантажено!
+2025-01-31 00:04:16,015 - discord.client - INFO - logging in using static token
+2025-01-31 00:04:17,576 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e9c24e94b6957462508bec2eaa20df5c).
+2025-01-31 00:04:20,090 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 00:05:20,096 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-31 00:06:42,775 - cogs.voice_roles - INFO - Категорія 1334311184647589949 пов'язана з роллю 1334312258947518536.
+2025-01-31 00:09:51,192 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-31 00:09:51,195 - __main__ - INFO - Cog cogs.telegram_webhook успішно завантажено!
+2025-01-31 00:09:51,195 - discord.client - INFO - logging in using static token
+2025-01-31 00:09:52,261 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: dc684b352c336517714ac67f949fbc2e).
+2025-01-31 00:09:54,779 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 00:10:54,667 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-31 00:17:38,426 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "status" is not found
+2025-01-31 00:20:34,002 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-31 00:20:34,005 - __main__ - INFO - Cog cogs.telegram_webhook успішно завантажено!
+2025-01-31 00:20:34,005 - discord.client - INFO - logging in using static token
+2025-01-31 00:20:35,071 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 99aea94ff193a6e7d2b0d36a2738a2b2).
+2025-01-31 00:20:37,388 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 00:21:37,378 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-31 00:25:42,459 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-31 00:25:42,462 - __main__ - INFO - Cog cogs.telegram_webhook успішно завантажено!
+2025-01-31 00:25:42,462 - discord.client - INFO - logging in using static token
+2025-01-31 00:25:43,773 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 58135a1192a146b83448d95fe0d16cea).
+2025-01-31 00:25:46,140 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 00:26:46,449 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-31 00:34:58,828 - __main__ - INFO - Cog cogs.voice_roles успішно завантажено!
+2025-01-31 00:34:58,831 - __main__ - INFO - Cog cogs.telegram_webhook успішно завантажено!
+2025-01-31 00:34:58,832 - discord.client - INFO - logging in using static token
+2025-01-31 00:35:00,396 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3d47a7d7ad7c27c3f57abec9473e85b7).
+2025-01-31 00:35:02,732 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 00:36:02,721 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-31 00:46:21,522 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-01-31 00:49:39,209 - discord.client - INFO - logging in using static token
+2025-01-31 00:49:40,456 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 29fcdc78e86338d4ef7007b9b0e03e3a).
+2025-01-31 00:49:42,454 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 00:49:43,003 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-31 00:49:53,842 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Voice 1
+2025-01-31 00:49:53,842 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:49:54,253 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:49:56,496 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Voice 1
+2025-01-31 00:49:56,497 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:49:56,767 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:49:57,813 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:49:57,814 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:49:58,115 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: CS #1
+2025-01-31 00:49:58,116 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:49:58,274 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:49:58,494 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:49:58,494 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:49:58,496 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:49:58,893 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:50:01,505 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: CS #1
+2025-01-31 00:50:03,898 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:50:03,899 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу patch0
+2025-01-31 00:50:04,186 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Dota #1
+2025-01-31 00:50:04,187 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:50:04,188 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у patch0
+2025-01-31 00:50:04,209 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу patch0
+2025-01-31 00:50:04,543 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у patch0
+2025-01-31 00:50:09,036 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Dota #1
+2025-01-31 00:50:09,037 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у patch0
+2025-01-31 00:50:09,256 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у patch0
+2025-01-31 00:50:21,011 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Voice 1
+2025-01-31 00:50:21,012 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:50:21,455 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:50:28,414 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Voice 1
+2025-01-31 00:50:28,415 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:50:28,697 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:50:30,520 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:50:30,521 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:50:30,660 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: CS #1
+2025-01-31 00:50:30,661 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:50:30,812 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:50:30,931 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:50:30,932 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:50:30,932 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:50:31,256 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:50:36,608 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: CS #1
+2025-01-31 00:50:38,579 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:50:38,580 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу patch0
+2025-01-31 00:50:38,880 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу patch0
+2025-01-31 00:50:39,226 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Dota #1
+2025-01-31 00:50:39,226 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:50:39,226 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у patch0
+2025-01-31 00:50:39,523 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у patch0
+2025-01-31 00:50:46,040 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Dota #1
+2025-01-31 00:50:48,127 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Voice 1
+2025-01-31 00:50:48,127 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:50:48,453 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:50:52,986 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Voice 1
+2025-01-31 00:50:52,986 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:50:53,251 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:52:00,479 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 00:52:00,480 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу reisles
+2025-01-31 00:52:00,714 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 00:52:00,715 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу reisles
+2025-01-31 00:52:00,866 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу reisles
+2025-01-31 00:52:00,867 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 00:52:00,867 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 00:52:00,987 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу reisles
+2025-01-31 00:52:00,988 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 00:52:00,988 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 00:52:01,132 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 00:52:01,596 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 00:52:08,800 - discord.client - INFO - logging in using static token
+2025-01-31 00:52:09,947 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0baafb5c45abb5f338ff6471708380d3).
+2025-01-31 00:52:11,989 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 00:52:12,304 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-31 00:52:22,726 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:52:22,727 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:52:22,987 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:52:23,046 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: CS #1
+2025-01-31 00:52:23,047 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:52:23,047 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:52:23,308 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:52:30,908 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: CS #1
+2025-01-31 00:53:02,308 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:53:02,309 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу patch0
+2025-01-31 00:53:02,657 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу patch0
+2025-01-31 00:53:02,750 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Dota #1
+2025-01-31 00:53:02,750 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:53:02,751 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у patch0
+2025-01-31 00:53:03,019 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у patch0
+2025-01-31 00:53:08,067 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Dota #1
+2025-01-31 00:53:09,774 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:53:09,775 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:53:10,030 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:53:10,332 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: CS #1
+2025-01-31 00:53:10,333 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:53:10,334 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:53:10,626 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:53:12,849 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: CS #1
+2025-01-31 00:53:14,212 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Voice 1
+2025-01-31 00:53:14,213 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:53:14,547 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:53:18,137 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Voice 1
+2025-01-31 00:53:18,138 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:53:18,375 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:53:19,532 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:53:19,533 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:53:19,803 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:53:20,029 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: CS #1
+2025-01-31 00:53:20,030 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:53:20,031 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:53:20,317 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:53:22,643 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: CS #1
+2025-01-31 00:56:03,061 - discord.client - INFO - logging in using static token
+2025-01-31 00:56:04,088 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 476468f9de61b21100917490e5fca103).
+2025-01-31 00:56:06,155 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 00:56:06,472 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-31 00:56:12,229 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Voice 1
+2025-01-31 00:56:12,229 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:56:12,531 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:56:12,532 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу None в канал Voice 1.
+2025-01-31 00:56:14,841 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Voice 1
+2025-01-31 00:56:14,841 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:56:15,305 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:56:16,018 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:56:16,019 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:56:16,275 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: CS #1
+2025-01-31 00:56:16,276 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:56:16,417 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:56:16,417 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу None в канал CS #1.
+2025-01-31 00:56:16,703 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:56:16,704 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:56:16,704 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:56:16,931 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:56:16,931 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу Створити войс в канал CS #1.
+2025-01-31 00:56:16,932 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:56:17,182 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:56:21,838 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:56:21,838 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу patch0
+2025-01-31 00:56:22,166 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу patch0
+2025-01-31 00:56:22,167 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: CS #1
+2025-01-31 00:56:22,167 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:56:22,169 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: CS #1
+2025-01-31 00:56:22,170 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:56:22,170 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у patch0
+2025-01-31 00:56:22,411 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:56:22,502 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у patch0
+2025-01-31 00:56:22,503 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу Створити войс в канал CS #1.
+2025-01-31 00:56:22,509 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:56:22,980 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:56:28,234 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:56:28,235 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу patch0
+2025-01-31 00:56:28,587 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу patch0
+2025-01-31 00:56:28,588 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: CS #1
+2025-01-31 00:56:28,588 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:56:28,824 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:56:28,824 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу CS #1 в канал Створити войс.
+2025-01-31 00:56:30,258 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: CS #1
+2025-01-31 00:56:30,259 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 00:56:30,491 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 00:56:30,492 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:56:30,493 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у patch0
+2025-01-31 00:56:30,784 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у patch0
+2025-01-31 00:56:30,784 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу Створити войс в канал CS #1.
+2025-01-31 00:56:33,681 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: CS #1
+2025-01-31 00:56:33,681 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 00:56:34,063 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 00:56:34,492 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 00:56:34,492 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу patch0
+2025-01-31 00:56:34,791 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу patch0
+2025-01-31 00:56:34,798 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу None в канал Створити войс.
+2025-01-31 00:56:35,024 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Dota #1
+2025-01-31 00:56:35,024 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 00:56:35,025 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у patch0
+2025-01-31 00:56:35,334 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у patch0
+2025-01-31 00:56:35,334 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу Створити войс в канал Dota #1.
+2025-01-31 00:56:35,335 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу patch0
+2025-01-31 00:56:35,561 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу patch0
+2025-01-31 00:56:40,714 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Dota #1
+2025-01-31 00:56:40,715 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у patch0
+2025-01-31 00:56:41,016 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у patch0
+2025-01-31 01:10:23,126 - discord.client - INFO - logging in using static token
+2025-01-31 01:10:24,231 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 997c45c61c87d69201776d30562393bb).
+2025-01-31 01:10:26,241 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 01:10:26,676 - __main__ - INFO - Синхронізовано 3 команд.
+2025-01-31 01:11:20,948 - cogs.voice_roles - INFO - Користувач tringlee приєднався до каналу: Voice 1
+2025-01-31 01:11:20,949 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу tringlee
+2025-01-31 01:11:21,339 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу tringlee
+2025-01-31 01:11:21,339 - cogs.voice_roles - INFO - Користувач tringlee покинув канал: Voice 1
+2025-01-31 01:11:21,340 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у tringlee
+2025-01-31 01:11:21,656 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у tringlee
+2025-01-31 01:11:28,368 - cogs.voice_roles - INFO - Користувач tringlee приєднався до каналу: Voice 1
+2025-01-31 01:11:28,368 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу tringlee
+2025-01-31 01:11:28,617 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу tringlee
+2025-01-31 01:11:28,618 - cogs.voice_roles - INFO - Користувач tringlee покинув канал: Voice 1
+2025-01-31 01:11:28,618 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у tringlee
+2025-01-31 01:11:28,936 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у tringlee
+2025-01-31 01:13:21,066 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Створити войс
+2025-01-31 01:13:21,067 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 01:13:21,337 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 01:13:21,341 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу None в канал Створити войс.
+2025-01-31 01:13:21,382 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: CS #1
+2025-01-31 01:13:21,387 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Створити войс
+2025-01-31 01:13:21,387 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 01:13:21,565 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 01:13:21,565 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу Створити войс в канал CS #1.
+2025-01-31 01:13:23,693 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: CS #1
+2025-01-31 01:13:23,694 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 01:13:23,910 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 01:14:27,335 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 01:14:27,336 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу reisles
+2025-01-31 01:14:27,633 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу reisles
+2025-01-31 01:14:27,634 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 01:14:27,634 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 01:14:27,891 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 01:14:59,450 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 01:14:59,451 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу reisles
+2025-01-31 01:14:59,782 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу reisles
+2025-01-31 01:14:59,783 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 01:14:59,783 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 01:15:00,092 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 01:15:39,104 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 01:15:39,105 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу reisles
+2025-01-31 01:15:39,382 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу reisles
+2025-01-31 01:15:39,382 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 01:15:39,383 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 01:15:39,719 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 01:16:29,492 - discord.client - INFO - logging in using static token
+2025-01-31 01:16:30,615 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7d04b4d801885b9e131e4cb80777c26d).
+2025-01-31 01:16:32,618 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 01:16:32,969 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-31 01:18:00,493 - discord.client - INFO - logging in using static token
+2025-01-31 01:18:01,343 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f68f8891ee00fe65dfaa46fc84368d24).
+2025-01-31 01:18:03,352 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 01:18:03,697 - __main__ - INFO - Синхронізовано 2 команд.
+2025-01-31 01:24:56,927 - discord.client - INFO - logging in using static token
+2025-01-31 01:24:59,240 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8b0921924f73ab82dc30e4346de1f066).
+2025-01-31 01:25:01,271 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 01:25:01,705 - __main__ - INFO - Синхронізовано 4 команд.
+2025-01-31 01:25:07,670 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Voice 1
+2025-01-31 01:25:07,671 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу patch0
+2025-01-31 01:25:07,967 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу patch0
+2025-01-31 01:25:07,967 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу None в канал Voice 1.
+2025-01-31 01:27:05,210 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 01:27:05,211 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу reisles
+2025-01-31 01:27:05,823 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу reisles
+2025-01-31 01:27:05,823 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 01:27:05,824 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 01:27:05,919 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 01:27:05,919 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 01:27:05,920 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 01:27:06,259 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 01:27:06,573 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 01:28:08,060 - cogs.voice_roles - INFO - Користувач slavabivis приєднався до каналу: Voice 1
+2025-01-31 01:28:08,060 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу slavabivis
+2025-01-31 01:28:08,352 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу slavabivis
+2025-01-31 01:28:08,352 - cogs.voice_roles - INFO - Користувач slavabivis покинув канал: Voice 1
+2025-01-31 01:28:08,353 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у slavabivis
+2025-01-31 01:28:08,580 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у slavabivis
+2025-01-31 01:28:09,424 - cogs.voice_roles - INFO - Користувач slavabivis приєднався до каналу: Voice 1
+2025-01-31 01:28:09,424 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу slavabivis
+2025-01-31 01:28:09,732 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу slavabivis
+2025-01-31 01:28:09,732 - cogs.voice_roles - INFO - Користувач slavabivis покинув канал: Voice 1
+2025-01-31 01:28:09,732 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у slavabivis
+2025-01-31 01:28:09,974 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у slavabivis
+2025-01-31 01:28:24,118 - cogs.voice_roles - INFO - Користувач slavabivis приєднався до каналу: Voice 1
+2025-01-31 01:28:24,119 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу slavabivis
+2025-01-31 01:28:24,409 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу slavabivis
+2025-01-31 01:28:24,410 - cogs.voice_roles - INFO - Користувач slavabivis покинув канал: Voice 1
+2025-01-31 01:28:24,410 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у slavabivis
+2025-01-31 01:28:24,762 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у slavabivis
+2025-01-31 01:31:33,838 - cogs.voice_roles - INFO - Користувач dan350 покинув канал: Voice 1
+2025-01-31 01:31:43,579 - cogs.voice_roles - INFO - Користувач tringlee приєднався до каналу: Voice 1
+2025-01-31 01:31:43,579 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу tringlee
+2025-01-31 01:31:44,203 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу tringlee
+2025-01-31 01:31:44,204 - cogs.voice_roles - INFO - Користувач tringlee покинув канал: Voice 1
+2025-01-31 01:31:44,204 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у tringlee
+2025-01-31 01:31:44,615 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у tringlee
+2025-01-31 01:31:53,929 - cogs.voice_roles - INFO - Користувач monendergino покинув канал: Voice 1
+2025-01-31 01:32:32,751 - discord.client - INFO - logging in using static token
+2025-01-31 01:32:33,713 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9d2ee6d1fa7a161303efa64ac79453f4).
+2025-01-31 01:32:34,884 - cogs.voice_roles - INFO - Користувач gryonge покинув канал: Voice 1
+2025-01-31 01:32:35,730 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 01:32:35,732 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 01:32:36,060 - __main__ - INFO - Синхронізовано 4 команд.
+2025-01-31 01:33:02,094 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 01:33:02,095 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу reisles
+2025-01-31 01:33:02,399 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу reisles
+2025-01-31 01:33:02,400 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 01:33:02,400 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 01:33:02,898 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 01:33:12,208 - cogs.voice_roles - INFO - Користувач gryonge приєднався до каналу: Voice 1
+2025-01-31 01:33:12,208 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу gryonge
+2025-01-31 01:33:12,455 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу gryonge
+2025-01-31 01:33:12,456 - cogs.voice_roles - INFO - Користувач gryonge перемістився з каналу None в канал Voice 1.
+2025-01-31 01:33:17,738 - cogs.voice_roles - INFO - Категорія 1332820544843808790 пов'язана з роллю 1334312086301315082.
+2025-01-31 01:33:22,228 - cogs.voice_roles - INFO - Користувач slavabivis приєднався до каналу: Voice 1
+2025-01-31 01:33:22,228 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу slavabivis
+2025-01-31 01:33:22,525 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу slavabivis
+2025-01-31 01:33:22,526 - cogs.voice_roles - INFO - Користувач slavabivis покинув канал: Voice 1
+2025-01-31 01:33:40,463 - cogs.voice_roles - INFO - Категорія 1334311184647589949 пов'язана з роллю 1334312258947518536.
+2025-01-31 01:34:01,290 - cogs.voice_roles - INFO - Користувач gryonge покинув канал: Voice 1
+2025-01-31 01:34:01,291 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у gryonge
+2025-01-31 01:34:01,914 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у gryonge
+2025-01-31 01:34:12,709 - cogs.voice_roles - INFO - Користувач gryonge приєднався до каналу: Voice 1
+2025-01-31 01:34:12,710 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу gryonge
+2025-01-31 01:34:13,001 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу gryonge
+2025-01-31 01:34:13,001 - cogs.voice_roles - INFO - Користувач gryonge перемістився з каналу None в канал Voice 1.
+2025-01-31 01:34:31,258 - cogs.voice_roles - INFO - Користувач gryonge покинув канал: Voice 1
+2025-01-31 01:34:31,259 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у gryonge
+2025-01-31 01:34:31,531 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у gryonge
+2025-01-31 01:34:40,500 - cogs.voice_roles - INFO - Користувач karpick_ покинув канал: Voice 1
+2025-01-31 01:34:42,116 - cogs.voice_roles - INFO - Користувач karpick_ приєднався до каналу: Voice 1
+2025-01-31 01:34:42,118 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу karpick_
+2025-01-31 01:34:42,371 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу karpick_
+2025-01-31 01:34:42,372 - cogs.voice_roles - INFO - Користувач karpick_ перемістився з каналу None в канал Voice 1.
+2025-01-31 01:34:43,846 - cogs.voice_roles - INFO - Користувач gryonge приєднався до каналу: Voice 1
+2025-01-31 01:34:43,846 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу gryonge
+2025-01-31 01:34:44,153 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу gryonge
+2025-01-31 01:34:44,154 - cogs.voice_roles - INFO - Користувач gryonge перемістився з каналу None в канал Voice 1.
+2025-01-31 01:34:52,116 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 01:34:52,116 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу reisles
+2025-01-31 01:34:52,359 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу reisles
+2025-01-31 01:34:52,360 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 01:34:52,360 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 01:34:52,656 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 01:39:41,973 - cogs.voice_roles - INFO - Користувач tringlee приєднався до каналу: Voice 1
+2025-01-31 01:39:41,974 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу tringlee
+2025-01-31 01:39:42,255 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу tringlee
+2025-01-31 01:39:42,257 - cogs.voice_roles - INFO - Користувач tringlee покинув канал: Voice 1
+2025-01-31 01:39:42,257 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у tringlee
+2025-01-31 01:39:42,597 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у tringlee
+2025-01-31 01:46:27,111 - discord.client - INFO - logging in using static token
+2025-01-31 01:46:28,257 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0b45b2ce15d24a1dbe3e7bd1fd3bb2a5).
+2025-01-31 01:46:30,266 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 01:46:30,268 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 01:46:30,800 - __main__ - INFO - Синхронізовано 5 команд.
+2025-01-31 01:47:08,723 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Voice 1
+2025-01-31 01:47:08,724 - cogs.voice_roles - INFO - Надаємо роль Грає в CS 2 користувачу patch0
+2025-01-31 01:47:08,999 - cogs.voice_roles - INFO - Роль Грає в CS 2 надано користувачу patch0
+2025-01-31 01:47:09,000 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Voice 1
+2025-01-31 01:47:09,000 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у patch0
+2025-01-31 01:47:09,262 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у patch0
+2025-01-31 01:47:09,262 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу Voice 1 в канал Voice 1.
+2025-01-31 01:47:12,810 - cogs.voice_roles - INFO - Користувач patch0 приєднався до каналу: Voice 1
+2025-01-31 01:47:12,818 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу patch0
+2025-01-31 01:47:13,133 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу patch0
+2025-01-31 01:47:13,133 - cogs.voice_roles - INFO - Користувач patch0 покинув канал: Voice 1
+2025-01-31 01:47:13,133 - cogs.voice_roles - INFO - Видаляємо роль Грає в CS 2 у patch0
+2025-01-31 01:47:13,408 - cogs.voice_roles - INFO - Роль Грає в CS 2 успішно видалено у patch0
+2025-01-31 01:47:13,408 - cogs.voice_roles - INFO - Користувач patch0 перемістився з каналу Voice 1 в канал Voice 1.
+2025-01-31 01:48:35,900 - cogs.voice_roles - INFO - Категорія 5 пов'язана з роллю 6.
+2025-01-31 01:50:42,958 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 01:50:42,959 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу reisles
+2025-01-31 01:50:43,249 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу reisles
+2025-01-31 01:50:43,249 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 01:50:43,250 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 01:50:43,524 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 01:55:26,611 - cogs.voice_roles - INFO - Користувач changes_2018 приєднався до каналу: Voice 1
+2025-01-31 01:55:26,612 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу changes_2018
+2025-01-31 01:55:26,997 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу changes_2018
+2025-01-31 01:55:26,997 - cogs.voice_roles - INFO - Користувач changes_2018 перемістився з каналу None в канал Voice 1.
+2025-01-31 01:56:14,443 - cogs.voice_roles - INFO - Користувач changes_2018 покинув канал: Voice 1
+2025-01-31 01:56:14,444 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у changes_2018
+2025-01-31 01:56:14,748 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у changes_2018
+2025-01-31 01:58:18,136 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 01:58:18,137 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу reisles
+2025-01-31 01:58:18,481 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу reisles
+2025-01-31 01:58:18,482 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 01:58:18,482 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 01:58:19,059 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 02:02:32,825 - cogs.voice_roles - INFO - Користувач slavabivis приєднався до каналу: Voice 1
+2025-01-31 02:02:32,826 - cogs.voice_roles - INFO - Користувач slavabivis покинув канал: Voice 1
+2025-01-31 02:02:32,826 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у slavabivis
+2025-01-31 02:02:33,238 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у slavabivis
+2025-01-31 02:03:30,050 - discord.client - INFO - logging in using static token
+2025-01-31 02:03:31,085 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 98245bf4474a78223dbd8866f7e97daa).
+2025-01-31 02:03:33,094 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 02:03:33,096 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 02:03:33,497 - __main__ - INFO - Синхронізовано 5 команд.
+2025-01-31 02:04:41,391 - cogs.voice_roles - INFO - Користувач slavabivis приєднався до каналу: Voice 1
+2025-01-31 02:04:41,392 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу slavabivis
+2025-01-31 02:04:41,948 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу slavabivis
+2025-01-31 02:04:41,948 - cogs.voice_roles - INFO - Користувач slavabivis покинув канал: Voice 1
+2025-01-31 02:04:41,949 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у slavabivis
+2025-01-31 02:04:42,183 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у slavabivis
+2025-01-31 02:05:59,074 - cogs.telegram_webhook - INFO - Збережено налаштування Telegram: -1002279957603, токен: 7685675243:AAHBQziKJB1lOm8jeq-sYyET9viVUCb96gk, вебхук: https://discord.com/api/webhooks/1332833134462636032/7hWPvNq1RQplS0jR2OOEWE_yJvqI9q_BZz3dHV8vx4BUnLFnTX94jyKVDubTEAsVao_X
+2025-01-31 02:08:48,423 - cogs.telegram_webhook - INFO - Збережено налаштування Telegram: -1002371084206, токен: 7685675243:AAHBQziKJB1lOm8jeq-sYyET9viVUCb96gk, вебхук: https://discord.com/api/webhooks/1332833134462636032/7hWPvNq1RQplS0jR2OOEWE_yJvqI9q_BZz3dHV8vx4BUnLFnTX94jyKVDubTEAsVao_X
+2025-01-31 02:15:50,058 - discord.client - INFO - logging in using static token
+2025-01-31 02:15:50,910 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 39adf81d8d4d3ab809264366415dc8d1).
+2025-01-31 02:15:52,909 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 02:15:52,911 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 02:15:53,385 - __main__ - INFO - Синхронізовано 6 команд.
+2025-01-31 02:17:56,454 - cogs.telegram_webhook - INFO - Збережено налаштування Telegram: ID: -1002371084206, токен: 7685675243:AAHBQziKJB1lOm8jeq-sYyET9viVUCb96gk, вебхук: https://discord.com/api/webhooks/1332833134462636032/7hWPvNq1RQplS0jR2OOEWE_yJvqI9q_BZz3dHV8vx4BUnLFnTX94jyKVDubTEAsVao_X
+2025-01-31 02:29:42,228 - cogs.voice_roles - INFO - Користувач reisles приєднався до каналу: Voice 1
+2025-01-31 02:29:42,229 - cogs.voice_roles - INFO - Надаємо роль Грає в DOTA 2 користувачу reisles
+2025-01-31 02:29:42,988 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 надано користувачу reisles
+2025-01-31 02:29:42,989 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 02:29:42,989 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у reisles
+2025-01-31 02:29:43,274 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у reisles
+2025-01-31 02:29:46,572 - cogs.voice_roles - INFO - Користувач reisles покинув канал: Voice 1
+2025-01-31 02:29:48,110 - cogs.voice_roles - INFO - Користувач tringlee покинув канал: Voice 1
+2025-01-31 02:29:49,750 - cogs.voice_roles - INFO - Користувач gryonge покинув канал: Voice 1
+2025-01-31 02:29:49,751 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у gryonge
+2025-01-31 02:29:49,971 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у gryonge
+2025-01-31 02:29:53,049 - cogs.voice_roles - INFO - Користувач karpick_ покинув канал: Voice 1
+2025-01-31 02:29:53,049 - cogs.voice_roles - INFO - Видаляємо роль Грає в DOTA 2 у karpick_
+2025-01-31 02:29:53,366 - cogs.voice_roles - INFO - Роль Грає в DOTA 2 успішно видалено у karpick_
+2025-01-31 02:29:53,404 - cogs.voice_roles - INFO - Користувач slavabivis покинув канал: Voice 1
+2025-01-31 06:45:38,906 - discord.client - INFO - logging in using static token
+2025-01-31 06:45:40,169 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0270a193c62cb1cbbcc78cb1c546da42).
+2025-01-31 06:45:42,180 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 06:45:42,182 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 06:45:42,803 - __main__ - INFO - Синхронізовано 5 команд.
+2025-01-31 07:01:53,421 - discord.client - INFO - logging in using static token
+2025-01-31 07:01:54,423 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 27cf40ddd9eb7ff9d7113545061bbcc7).
+2025-01-31 07:01:56,428 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 07:01:56,430 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 07:01:56,768 - __main__ - INFO - Синхронізовано 5 команд.
+2025-01-31 07:04:36,000 - cogs.telegram_webhook - INFO - Збережено налаштування Telegram: -1002371084206, токен: 7685675243:AAHBQziKJB1lOm8jeq-sYyET9viVUCb96gk, вебхук: https://discord.com/api/webhooks/1332833134462636032/7hWPvNq1RQplS0jR2OOEWE_yJvqI9q_BZz3dHV8vx4BUnLFnTX94jyKVDubTEAsVao_X
+2025-01-31 07:17:52,838 - discord.client - INFO - logging in using static token
+2025-01-31 07:17:53,916 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 50be1220ea7f20957efc9052e4d098c3).
+2025-01-31 07:17:55,915 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 07:17:55,917 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 07:17:56,211 - __main__ - INFO - Синхронізовано 5 команд.
+2025-01-31 07:23:23,661 - cogs.telegram_webhook - INFO - TelegramWebhook Cog ініціалізовано.
+2025-01-31 07:23:23,662 - discord.client - INFO - logging in using static token
+2025-01-31 07:23:25,301 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 206ab2275b1934a82154a5930fbbfff7).
+2025-01-31 07:23:27,304 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 07:23:27,305 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 07:23:27,867 - __main__ - INFO - Синхронізовано 5 команд.
+2025-01-31 07:29:48,194 - cogs.telegram_webhook - INFO - TelegramWebhook Cog ініціалізовано.
+2025-01-31 07:29:48,194 - discord.client - INFO - logging in using static token
+2025-01-31 07:29:49,210 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4510fdae5a0bd4cae02622a3de8e798a).
+2025-01-31 07:29:51,233 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 07:29:51,236 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 07:29:51,668 - __main__ - INFO - Синхронізовано 5 команд.
+2025-01-31 07:30:58,625 - discord.ext.commands.bot - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "add_event" is not found
+2025-01-31 07:36:38,101 - cogs.telegram_webhook - INFO - TelegramWebhook Cog ініціалізовано.
+2025-01-31 07:36:38,102 - __main__ - ERROR - Помилка при завантаженні Cogs: name 'EventScheduler' is not defined
+2025-01-31 07:36:38,103 - discord.client - INFO - logging in using static token
+2025-01-31 07:36:39,293 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b94596d1d847daaaf39ba193e83e9071).
+2025-01-31 07:36:41,312 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 07:36:41,313 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 07:36:41,876 - __main__ - INFO - Синхронізовано 5 команд.
+2025-01-31 07:38:24,373 - cogs.telegram_webhook - INFO - TelegramWebhook Cog ініціалізовано.
+2025-01-31 07:38:24,374 - __main__ - INFO - Усі Cogs успішно завантажено!
+2025-01-31 07:38:24,374 - discord.client - INFO - logging in using static token
+2025-01-31 07:38:25,362 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c040d518ca5b53034ef2c72fa6b56b7b).
+2025-01-31 07:38:27,395 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 07:38:27,397 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 07:38:27,866 - __main__ - INFO - Синхронізовано 6 команд.
+2025-01-31 07:43:31,448 - cogs.telegram_webhook - INFO - TelegramWebhook Cog ініціалізовано.
+2025-01-31 07:43:31,449 - __main__ - INFO - Усі Cogs успішно завантажено!
+2025-01-31 07:43:31,450 - discord.client - INFO - logging in using static token
+2025-01-31 07:43:32,717 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6957789b90abf880f510bfb2e0e9c381).
+2025-01-31 07:43:34,718 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 07:43:34,720 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 07:43:35,174 - __main__ - INFO - Синхронізовано 6 команд.
+2025-01-31 07:46:48,585 - cogs.telegram_webhook - INFO - TelegramWebhook Cog ініціалізовано.
+2025-01-31 07:46:48,586 - __main__ - INFO - Усі Cogs успішно завантажено!
+2025-01-31 07:46:48,586 - discord.client - INFO - logging in using static token
+2025-01-31 07:46:49,460 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a74482996dfd1b4ef7d85a659d4a2c52).
+2025-01-31 07:46:51,475 - __main__ - INFO - Бот PATCH#1164 готовий до роботи!
+2025-01-31 07:46:51,477 - cogs.voice_roles - WARNING - Не знайдена роль для категорії 1211265191996817410.
+2025-01-31 07:46:53,544 - __main__ - INFO - Синхронізовано 7 команд.
+2025-01-31 07:50:29,697 - cogs.voice_roles - INFO - Категорія 7 пов'язана з роллю 9.
